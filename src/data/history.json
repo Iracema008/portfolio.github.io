@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Data Science Intern",
+    "organisation": "ASSURE-US",
+    "startDate": "May, 2022",
+    "endDate": "August, 2022",
+    "experiences": ["Predicted chronic homelessness levels by developing and training a neural network model."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "RTX Drone Competition",
+    "organisation": "Raytheon",
+    "startDate": "October, 2024",
+    "endDate": "Present",
+    "experiences": ["Utilized YOLOv4-tiny and Python with the Darknet framework for real-time object detection for UAV to detect arUco markers."],
+    "imageSrc": "history/netflix.png"
+  }
+]
