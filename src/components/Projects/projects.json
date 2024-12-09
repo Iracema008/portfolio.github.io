@@ -3,19 +3,19 @@
   {
     "title": "Vision and Target Identification",
     "imageSrc": "vision.png",
-    "description": "Identified arUco markers to send coordinates from UAV to UGV.",
-    "skills": ["Yolov4-Tiny", "Python"]
+    "description": "Identified arUco markers to send coordinates from UAV to UGV. I have never used YOLO before so I had trouble understanding it as a whole, I also joined the DarkNet discord to help me with any doubts.",
+    "skills": ["Yolov4-Tiny", "Python", "Darknet"]
   },
    {
     "title": "Staying Green",
     "imageSrc": "project.png",
-    "description": "CSUF Designathon project, designed a website to donate to tree planting,",
+    "description": "CSUF Designathon project, designed a website to donate to tree planting. With the 24 hours me and my partner had, we had little experience with UI so it was difficult knowing how to structure things, thankfully we met with a mentor to help us with that. ",
     "skills": ["Figma"]
   },
   {
     "title": "Hurdle",
     "imageSrc": "project.png",
-    "description": "A recreation of New York Time's game Wordle.",
+    "description": "A recreation of New York Time's game Wordle. This incorperated a lot of data structure principels which made it confusing at first, but I was able to have an interactive and correct outcome.",
     "skills": ["C++", "Data Structures"]
   }
  
