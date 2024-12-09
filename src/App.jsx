@@ -1,9 +1,14 @@
 import styles from "./App.module.css";
+import NavBar from "./components/NavBar/NavBar";
+
 
 function App() {
-    return <div classname={styles.App}>
-      <  navbar />
-    </div>;
-
+  return (
+    <div className={styles.App}>
+     <NavBar />
+    </div>
+  );
 }
+
 export default App;
+
