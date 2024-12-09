@@ -1,0 +1,22 @@
+
+[
+  {
+    "title": "Vision and Target Identification",
+    "imageSrc": "vision.png",
+    "description": "Identified arUco markers to send coordinates from UAV to UGV.",
+    "skills": ["Yolov4-Tiny", "Python"]
+  },
+   {
+    "title": "Staying Green",
+    "imageSrc": "project.png",
+    "description": "CSUF Designathon project, designed a website to donate to tree planting,",
+    "skills": ["Figma"]
+  },
+  {
+    "title": "Hurdle",
+    "imageSrc": "project.png",
+    "description": "A recreation of New York Time's game Wordle.",
+    "skills": ["C++", "Data Structures"]
+  }
+ 
+]
